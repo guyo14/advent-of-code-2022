@@ -5,7 +5,7 @@ Solutions for Advent of code 2022 using Rust.
 | Day | Solved 1 | Solved 2 |
 |-----|----------|----------|
 | 1 . | [X]      | [X]      |
-| 2 . | []       | []       |
+| 2 . | [X]      | [X]      |
 | 3 . | []       | []       |
 | 4 . | []       | []       |
 | 5 . | []       | []       |
